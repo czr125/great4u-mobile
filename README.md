@@ -1,16 +1,28 @@
-# good4you
+<h1 align="center"> Good 4 You </h1>
 
-A new Flutter project.
+<p align="center">
+App mobile feito com o intuito de parecer com um e-commerce, o qual foi realizado por mim, Cezar Augusto.
+</p>
 
-## Getting Started
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-This project is a starting point for a Flutter application.
+## 🚀 Tecnologias
 
-A few resources to get you started if this is your first Flutter project:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Dart
+- Flutter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 💻 Projeto
+
+O App serve apenas de visualização, a ideia do aplicativo é apenas de design.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+---
+
+Made by ⚡ @czr_mutran :wave: 
