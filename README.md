@@ -1,4 +1,4 @@
-<h1 align="center"> Good 4 You </h1>
+<h1 align="center"> Great 4 You </h1>
 
 <p align="center">
 App mobile feito com o intuito de parecer com um e-commerce, o qual foi realizado por mim, Cezar Augusto.
